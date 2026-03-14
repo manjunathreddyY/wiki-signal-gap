@@ -195,8 +195,6 @@ STEM topics show a mean divergence of **+22.6 points** post-rollout — the larg
 
 ## 👥 Author
 
-**Team Standard Deviants** — DataFest 2026, Universität Mannheim
-
 | Name | Role |
 |---|---|
 | Manjunath Reddy | Data pipeline, API integration, visualization |
