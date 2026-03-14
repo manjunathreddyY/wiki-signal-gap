@@ -1,0 +1,16 @@
+# Core data processing
+polars>=0.20.0
+pandas>=2.0.0
+
+# Visualization
+matplotlib>=3.8.0
+seaborn>=0.13.0
+plotly>=5.18.0
+kaleido>=0.2.1
+
+# Google Trends API
+google-search-results>=2.4.2
+
+# Jupyter
+jupyter>=1.0.0
+notebook>=7.0.0
